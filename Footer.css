@@ -1,0 +1,22 @@
+footer {
+  background-color: #a098b1;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50vh;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-media a {
+  color: #fff;
+  margin-left: 10px;
+}
+
+.social-media a:hover {
+  color: #f00;
+}
